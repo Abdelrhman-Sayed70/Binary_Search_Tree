@@ -1,6 +1,6 @@
 # Binary_Search_Tree
 
-## Type of BST
+## Types of BST
 All functions needed to determine almost all types of Binary search tree (BST)
  ![All in one](https://user-images.githubusercontent.com/99830416/163495844-d4b35a9b-bb31-4edd-b40d-122c6982ecaa.png)
 ![Balanced](https://user-images.githubusercontent.com/99830416/163495879-33092145-55ba-48e5-a478-20144694439b.png)
